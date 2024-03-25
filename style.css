@@ -1,6 +1,6 @@
-body
+body:cdi
 {
-  background-color: black;
+  background-color: black and red;
   color: pink;
   font-size: 12pt;
   font-family:Verdana;
