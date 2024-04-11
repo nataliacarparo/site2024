@@ -1,13 +1,39 @@
-body:
+@charset "UTF-8";
+
+body
 {
-  background-color: black;
-  color: pink;
-  font-size: 12pt;
-  font-family:Verdana;
+background-color: pink;
+  background-image:linear-gradient(to right, purple, pink);
+  text-align:center;
 }
 
-h1
+p
 {
-  color: hot pink;
-}
+  color:rgb(0, 0, 0);
+  text-align:center;
+  font-size: 180%
+  font-family: verdana;
+  line-height:1.5em;}
 
+li
+{
+  color:rgb(0, 0, 0);
+  text-align:center;
+  text-decoration:none;
+  font-size:160%;
+  font-family:verdana;
+  line-height:1.5em;}
+
+a
+{
+color:rgb(0, 0, 0);
+  text-align:center;
+  text-decoration:none;
+  font-size:130%;
+  font-family:verdana;
+  line-height:1.5em;}
+
+img
+{
+  text-align:center;
+}
